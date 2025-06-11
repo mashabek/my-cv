@@ -30,16 +30,6 @@ Scalable, cloud-first applications using Google Cloud Platform.
 Scalable architecture, Cloud applications, AI, High-performance data streaming, 2-D / 3-D visualisation, database optimisation (MS SQL & PostgreSQL)
 
 
-## Education
-
-`Sep 2019 – Jun 2022`  
-__Czech Technical University in Prague__, Faculty of Electrical Engineering – **B.Sc. Computer Science (Open Informatics)**  
-
-`Sep 2022 – present`  
-__Czech Technical University in Prague__, Faculty of Electrical Engineering – **M.Sc. Computer Science (Open Informatics)**
-
-
-
 ## Employment History
 
 `Apr 2025 – Present`  
@@ -95,5 +85,16 @@ __MediaCall__, Prague / Tashkent – **WPF Developer**
 - **Frameworks & Libraries** WPF, UWP, ASP.NET Core, ReactiveX, SignalR, MQTT  
 - **Data** MS SQL, PostgreSQL, LiteDB, RavenDB  
 - **Methodologies** MVVM, multithreaded / async design, DI, REST APIs, real-time streaming  
-- **Tools** Git, CI/CD, Docker, Windows Services, OPC UA, PyQtGraph  
+- **Tools** Git, CI/CD, Docker, Windows Services, OPC UA, PyQtGraph
+
+
+
+## Education
+
+`Sep 2019 – Jun 2022`  
+__Czech Technical University in Prague__, Faculty of Electrical Engineering – **B.Sc. Computer Science (Open Informatics)**  
+
+`Sep 2022 – present`  
+__Czech Technical University in Prague__, Faculty of Electrical Engineering – **M.Sc. Computer Science (Open Informatics)**
+
 
