@@ -4,13 +4,15 @@ title: Bek Masharipov's CV
 ---
 
 # Bek Masharipov
-Software Engineer • & robotics enthusiast
+Software Engineer • Robotics enthusiast
 
+My work has ranged from industrial HMI apps to full e-commerce sites, so I’m used to switching fields and tools. From office apps to self-driving tech, I write code that gets things moving - people, machines, and new ideas.
+
+I reach for .NET most often, but I’ll use whatever stack fits the job best.
 <div id="webaddress">
-<a href="mailto:bekmasharipov@hotmail.com">bekmasharipov@hotmail.com</a>
-<a href="(https://www.linkedin.com/in/bek-masharipov-286a59111/)">Linkedin</a>
+  <a href="mailto:bekmasharipov@hotmail.com">bekmasharipov@hotmail.com</a> |
+  <a href="https://www.linkedin.com/in/bek-masharipov-286a59111/">LinkedIn</a>
 </div>
-
 
 ## Currently
 
