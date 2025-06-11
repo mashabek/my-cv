@@ -1,91 +1,97 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bek Masharipov's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Bek Masharipov
+Software Engineer • & robotics enthusiast
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:bekmasharipov@hotmail.com">bekmasharipov@hotmail.com</a>
+<a href="(https://www.linkedin.com/in/bek-masharipov-286a59111/)">Linkedin</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Building robust full stack solutions for a large ecommerce and exploring autonomous robotics.
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+C# / .NET (Core & Framework), Python, Typescript, multithreaded design (TAP), real-time data pipelines, MQTT, SignalR, and ReactiveX.
+Focused on developing scalable, cloud-first applications using Google Cloud Platform.
 
 
-### Research interests
+### Technical interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Scalable architecture, Cloud applications, AI, High-performance data streaming, 2-D / 3-D visualisation, database optimisation (MS SQL & PostgreSQL)
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2019 – Jun 2022`  
+__Czech Technical University in Prague__, Faculty of Electrical Engineering – **B.Sc. Computer Science (Open Informatics)**  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`Sep 2022 – present`  
+__Czech Technical University in Prague__, Faculty of Electrical Engineering – **M.Sc. Computer Science (Open Informatics)**
 
 
 
-## Awards
+## Employment History
 
-`2012`
-President, *Royal Society*, London, UK
+`Apr 2025 – Present`  
+__Alza.cz a.s.__, Prague – **Senior Software Engineer**  
+- Driving the technical strategy for a mission-critical pricing platform and coordinating team delivery.  
+- Re-engineered the system as a cloud-native microservice suite with a self-service UI, eliminating downtime and expanding SKU coverage, which directly lifted sales.
 
-Associate, *French Academy of Science*, Paris, France
+`Sep 2023 – Jun 2025`  
+__Alza.cz a.s.__, Prague – **Software Engineer**  
+- Joined to stabilise an unreliable pricing system; within five months was defining technical direction.  
+- Led a nine-month rebuild into a scalable microservice platform—work that paved the way for promotion to Senior Software Engineer.
+
+`Jan 2023 – Sep 2023`  
+__FONEKING__, Prague – **Software Engineer**  
+- Enhanced POS functionality to streamline store operations and improve efficiency.  
+- Built an employee points system that boosted staff engagement and provided performance tracking.
+
+`Feb 2022 – Mar 2023`  
+__Revelation Puzzles Pty Ltd__, Fyshwick – **.NET Core Developer**  
+- Built a full escape-room management suite: live game-state monitoring, player comms, control interfaces.  
+- Heavy use of async/await TAP, RavenDB, LiteDB, and MQTT for IoT props integration.  
+
+`Jun 2020 – Nov 2021`  
+__Broadband Dynamics LLC__, Scottsdale – **.NET Core Developer**  
+- Created a bridge between a telephone dialer and multiple CRM platforms.  
+- ASP.NET Core REST backend with companion Windows Service orchestrating telephony events.  
+
+`Sep 2019 – Jun 2020`  
+__E.Rooker__, Groves – **WPF Developer**  
+- Developed a tool to manage multiple OPC servers with real-time data visualised in a WPF UI.  
+
+`Feb 2019 – Jun 2020`  
+__Narlson LLC__, Akron – **WPF / Python Developer**  
+- Built HMI for 3-D sensors: PCL driver wrapper, high-volume streaming, 2-D/3-D plots; auxiliary PyQtGraph + Pandas app for data analysis.  
+
+`Jan 2018 – Jan 2019`  
+__Pretty Brook Solutions__, New Hudson – **WPF Developer**  
+- Crafted reusable custom controls, MVVM + DI refactor, and client-side SignalR reactive API.  
+
+`Apr 2017 – Jul 2018`  
+__Excite Digital Inc.__, Covington – **WPF / UWP Developer**  
+- Multi-module field-service app (projects, accounts, inventory, comms) with OAuth2 security.  
+
+`Sep 2016 – Jun 2017`  
+__MediaCall__, Prague / Tashkent – **WPF Developer**  
+- P2P messenger for call-centre agents with GSM-modem SMS gateway and crash-notification system.  
 
 
 
-## Publications
+## Skills
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+- **Programming** C#, .NET (Core/Framework), Python, C/C++, Haskell  
+- **Frameworks & Libraries** WPF, UWP, ASP.NET Core, ReactiveX, SignalR, MQTT  
+- **Data** MS SQL, PostgreSQL, LiteDB, RavenDB  
+- **Methodologies** MVVM, multithreaded / async design, DI, REST APIs, real-time streaming  
+- **Tools** Git, CI/CD, Docker, Windows Services, OPC UA, PyQtGraph  
 
