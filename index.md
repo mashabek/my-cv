@@ -4,7 +4,7 @@ title: Bek Masharipov's CV
 ---
 
 # Bek Masharipov
-Software Engineer • Robotics enthusiast
+Software Engineer
 
 My work has ranged from industrial HMI apps to full e-commerce sites, so I’m used to switching fields and tools. From office apps to self-driving tech, I write code that gets things moving - people, machines, and new ideas.
 
@@ -22,7 +22,7 @@ Building robust full stack solutions for a large ecommerce and exploring autonom
 ### Specialized in
 
 C# / .NET (Core & Framework), Python, Typescript, multithreaded design (TAP), real-time data pipelines, MQTT, SignalR, and ReactiveX.
-Focused on developing scalable, cloud-first applications using Google Cloud Platform.
+Scalable, cloud-first applications using Google Cloud Platform.
 
 
 ### Technical interests
