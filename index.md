@@ -21,14 +21,14 @@ Building robust full stack solutions for a large ecommerce and exploring autonom
 
 ### Specialized in
 
-C# / .NET (Core & Framework), Python, Typescript, multithreaded design (TAP), real-time data pipelines, MQTT, SignalR, and ReactiveX.
-Focused on developing scalable, cloud-first applications using Google Cloud Platform.
+C# / .NET (Core & Framework), Python, Typescript, Distributed and fault-tolerant architectures.
+GCP, Azure, K8s, SQL
 
 
 ### Technical interests
 
-Scalable architecture, Cloud applications, AI, High-performance data streaming, 2-D / 3-D visualisation, database optimisation (MS SQL & PostgreSQL)
-
+Low-latency stream processing at multi-million-event scale, AI/ML-powered product features & predictive analytics,
+Interactive 2-D/3-D data visualisation, ROS/ROS2, Gazebo simulations
 
 ## Education
 
@@ -44,13 +44,12 @@ __Czech Technical University in Prague__, Faculty of Electrical Engineering – 
 
 `Apr 2025 – Present`  
 __Alza.cz a.s.__, Prague – **Senior Software Engineer**  
-- Driving the technical strategy for a mission-critical pricing platform and coordinating team delivery.  
-- Re-engineered the system as a cloud-native microservice suite with a self-service UI, eliminating downtime and expanding SKU coverage, which directly lifted sales.
+- Driving the technical strategy for a mission-critical pricing platform and coordinating team delivery.
 
 `Sep 2023 – Jun 2025`  
 __Alza.cz a.s.__, Prague – **Software Engineer**  
 - Joined to stabilise an unreliable pricing system; within five months was defining technical direction.  
-- Led a nine-month rebuild into a scalable microservice platform—work that paved the way for promotion to Senior Software Engineer.
+- Led a nine-month rebuild into a scalable microservice platform
 
 `Jan 2023 – Sep 2023`  
 __FONEKING__, Prague – **Software Engineer**  
