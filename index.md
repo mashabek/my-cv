@@ -4,7 +4,7 @@ title: Bek Masharipov's CV
 ---
 
 # Bek Masharipov
-Software Engineer • Robotics enthusiast
+Software Engineer
 
 My work has ranged from industrial HMI apps to full e-commerce sites, so I’m used to switching fields and tools. From office apps to self-driving tech, I write code that gets things moving - people, machines, and new ideas.
 
@@ -24,21 +24,10 @@ Building robust full stack solutions for a large ecommerce and exploring autonom
 C# / .NET (Core & Framework), Python, Typescript, Distributed and fault-tolerant architectures.
 GCP, Azure, K8s, SQL
 
-
 ### Technical interests
 
 Low-latency stream processing at multi-million-event scale, AI/ML-powered product features & predictive analytics,
 Interactive 2-D/3-D data visualisation, ROS/ROS2, Gazebo simulations
-
-## Education
-
-`Sep 2019 – Jun 2022`  
-__Czech Technical University in Prague__, Faculty of Electrical Engineering – **B.Sc. Computer Science (Open Informatics)**  
-
-`Sep 2022 – present`  
-__Czech Technical University in Prague__, Faculty of Electrical Engineering – **M.Sc. Computer Science (Open Informatics)**
-
-
 
 ## Employment History
 
@@ -94,5 +83,16 @@ __MediaCall__, Prague / Tashkent – **WPF Developer**
 - **Frameworks & Libraries** WPF, UWP, ASP.NET Core, ReactiveX, SignalR, MQTT  
 - **Data** MS SQL, PostgreSQL, LiteDB, RavenDB  
 - **Methodologies** MVVM, multithreaded / async design, DI, REST APIs, real-time streaming  
-- **Tools** Git, CI/CD, Docker, Windows Services, OPC UA, PyQtGraph  
+- **Tools** Git, CI/CD, Docker, Windows Services, OPC UA, PyQtGraph
+
+
+
+## Education
+
+`Sep 2019 – Jun 2022`  
+__Czech Technical University in Prague__, Faculty of Electrical Engineering – **B.Sc. Computer Science (Open Informatics)**  
+
+`Sep 2022 – present`  
+__Czech Technical University in Prague__, Faculty of Electrical Engineering – **M.Sc. Computer Science (Open Informatics)**
+
 
