@@ -6,7 +6,7 @@ title: Bek Masharipov's CV
 # Bek Masharipov
 Software Engineer
 
-My work has ranged from industrial HMI apps to full e-commerce sites, so I’m used to switching fields and tools. From office apps to self-driving tech, I write code that gets things moving - people, machines, and new ideas.
+5+ years of experience building high-scale distributed systems and data-driven applications. Expert in C#, .NET Core, and cloud technologies with proven ability to design and implement microservices architectures that handle millions of events daily. Passionate about leveraging AI-assisted development tools and delivering scalable solutions that drive business impact.
 
 I reach for .NET most often, but I’ll use whatever stack fits the job best.
 <div id="webaddress">
